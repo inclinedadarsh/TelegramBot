@@ -1,3 +1,5 @@
+#Type in Terminal-  pip install python-telegram-bot
+
 import random
 
 import constants as keys
